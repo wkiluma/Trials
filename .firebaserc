@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "demoapp-ec0ec": {
+      "hosting": {
+        "app": [
+          "demoapp-ec0ec"
+        ]
+      }
+    }
+  }
+}
